@@ -13,7 +13,7 @@ Software Engineering student focused on combining engineering solutions, busines
   <img src="https://github-readme-stats.vercel.app/api?username=MarlonMora23&show_icons=true&theme=dark&hide_border=true" alt="Marlon's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMora23&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MarlonMora23&theme=react-dark" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonMora23&theme=react-dark" alt="Contribution graph" />
 </div>
 
 ---
