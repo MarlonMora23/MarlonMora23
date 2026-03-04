@@ -1,4 +1,4 @@
-# Marlon Mora
+# 👋 Hi, I'm Marlon Mora
 
 [![Website](https://img.shields.io/badge/Website-Portfolio-0b3b5e?style=flat&logo=google-chrome&logoColor=white)](https://github.com/MarlonMora23/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0b66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonmora)
@@ -6,17 +6,6 @@
 ![Open to work](https://img.shields.io/badge/Open%20to%20Work-Yes-00aaff?style=flat)
 
 Software Engineering student focused on combining engineering solutions, business insight, and applied AI. I build backend and data-driven tools that prioritize practicality and impact.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlonMora23&show_icons=true&theme=dark&hide_border=true" alt="Marlon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMora23&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonMora23&theme=react-dark" alt="Contribution graph" />
-</div>
-
----
 
 ## About Me
 I’m Marlon Mora — a systems engineering student from Colombia passionate about automation, applied AI, and data analytics. I enjoy building backend and full-stack solutions, prototyping ML models, and turning data into production-ready features. Currently open to work — looking for internships, junior roles, or collaborative projects.
